@@ -1,0 +1,28 @@
+{
+  "name": "head-first-design-typescript",
+  "version": "1.0.0",
+  "description": "Code of head first design principles in Typescript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./build/cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dante-101/head-first-design-typescript.git"
+  },
+  "keywords": [
+    "head-first-design",
+    "typescript",
+    "typescript-design-patterns"
+  ],
+  "author": "Gaurav Lahoti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dante-101/head-first-design-typescript/issues"
+  },
+  "homepage": "https://github.com/Dante-101/head-first-design-typescript#readme",
+  "devDependencies": {
+    "@types/node": "12.7.12",
+    "typescript": "3.6.3"
+  }
+}
